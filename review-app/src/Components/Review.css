@@ -1,0 +1,33 @@
+.reviewContent {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #5D6167;
+  }
+  
+  .reviewInformation {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .reviewTitle {
+    margin: 0;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 24px;
+  }
+  
+  .reviewFooter {
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+  }
+  
+  .reviewDate {
+    color: #8D95A3;
+    margin-left: 7%;
+  }
+  
+  .stars {
+    color: #FBCD33;
+    font-size: 18px;
+  }
